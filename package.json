@@ -1,0 +1,22 @@
+{
+  "name": "roodbotjs",
+  "version": "1.0.0",
+  "description": "A very rood bot, now in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesKauffmann/RoodBotJS.git"
+  },
+  "author": "Johannes Kauffmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannesKauffmann/RoodBotJS/issues"
+  },
+  "homepage": "https://github.com/JohannesKauffmann/RoodBotJS#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
